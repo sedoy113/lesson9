@@ -118,7 +118,7 @@ let description = document.querySelector('.description-btn'),
 		});
 
 
-//scroll
+//scroll my
 
 let linkNav = document.querySelectorAll('[href^="#"]'), 
     x = 0.5; 
