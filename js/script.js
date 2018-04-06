@@ -145,7 +145,7 @@ let linkNav = document.querySelectorAll('[href^="#"]'),
     }, false);
 }
 
-//slaider Ivan
+//scroll Ivan
 /*	let menu = document.getElementsByTagName('nav')[0];
 
 	menu.addEventListener('click', function(event) {
