@@ -107,7 +107,7 @@ window.addEventListener('DOMContentLoaded', function() {
 	});*/
 
 });
-
+//its my
 let description = document.querySelector('.description-btn'),
 		overlay = document.querySelector('.overlay');
 
